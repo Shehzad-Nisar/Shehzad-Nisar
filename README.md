@@ -66,7 +66,7 @@ Software Engineer · Java Backend Developer · Spring Boot Developer · MERN Sta
 
 Connect with me
 
-📧 Email: "shehzadnisar07@gmail.com" (mailto: shehzadnisar07@gmail.com)
+📧 Email: "shehzadnisar07@gmail.com"
 
 <br/>
 
