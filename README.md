@@ -56,12 +56,17 @@
 > loading secondary ................. MERN STACK · AI/ML
 > status ............................ ACCESS GRANTED
 ```
+Final-year Computer Science graduate transitioning into professional software engineering, with a primary focus on backend development using Java and Spring Boot. I build REST APIs, apply layered application architecture, and think about software from the database and domain layer up—not just the API endpoint down.
 
-Final-year Computer Science graduate moving into professional software engineering, with a primary focus on **backend systems built in Java and Spring Boot**. I design and ship REST APIs, work through layered application architecture, and reason about systems from the database up — not just the endpoint down.
+Alongside backend engineering, I build full-stack applications using the MERN ecosystem, including MongoDB, Express, React, Next.js, and TypeScript. I also have hands-on experience developing AI/ML systems with TensorFlow Lite, MediaPipe, and FastAPI.
 
-Alongside that, I build full-stack products on the **MERN stack** (MongoDB, Express-style APIs, React, Next.js, TypeScript) and have shipped work in AI/ML (TensorFlow Lite, MediaPipe, FastAPI). These are real, working skills — backend engineering is where I'm going deep.
+My current direction is clear: deepening my expertise in backend engineering, scalable APIs, software architecture, databases, and distributed systems, while continuing to leverage full-stack and AI/ML experience when building complete products.
 
-**Software Engineer &nbsp;·&nbsp; Java Backend Developer &nbsp;·&nbsp; MERN Stack Developer &nbsp;·&nbsp; Systems & API Development**
+Software Engineer · Java Backend Developer · Spring Boot Developer · MERN Stack Developer · Systems & API Development
+
+Connect with me
+
+📧 Email: "shehzadnisar07@gmail.com" (mailto: shehzadnisar07@gmail.com)
 
 <br/>
 
