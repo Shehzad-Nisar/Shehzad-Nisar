@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=1200&color=2DD4BF&center=true&vCenter=true&width=650&lines=SOFTWARE+ENGINEER+%E2%80%94+JAVA+BACKEND+DEVELOPER;BUILDING+REST+APIs+%26+LAYERED+SYSTEMS;MERN+STACK+%2F+FULL-STACK+DEVELOPMENT;AI%2FML+%2B+SYSTEMS+BACKGROUND;OPEN+TO+SOFTWARE+ENGINEERING+ROLES" alt="rotating role tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=1200&color=2DD4BF&center=true&vCenter=true&width=650&lines=SOFTWARE+ENGINEER+%E2%80%94+JAVA+BACKEND+DEVELOPER;BUILDING+REST+APIs+%26+LAYERED+SYSTEMS;MERN+STACK+%2F+FULL-STACK+DEVELOPMENT;OPEN+TO+SOFTWARE+ENGINEERING+ROLES" alt="rotating role tagline" />
 
 <br/><br/>
 
