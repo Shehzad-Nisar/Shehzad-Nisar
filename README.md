@@ -8,13 +8,39 @@
 
 <br/><br/>
 
-`[` [SYSTEM.STATUS](#systemstatus) `]` &nbsp;
-`[` [CURRENT.MISSION](#currentmission) `]` &nbsp;
-`[` [PROJECTS](#projects) `]` &nbsp;
-`[` [ARCHITECTURE](#architecture) `]` &nbsp;
-`[` [CONTRIBUTION.ENGINE](#contributionengine) `]` &nbsp;
-`[` [LEARNING.PROTOCOL](#learningprotocol) `]` &nbsp;
-`[` [CONTACT](#contact) `]`
+</div>
+
+## `SKILLS`
+
+<div align="center">
+
+<sub>BACKEND</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=java,spring,py,fastapi&theme=dark" alt="Java, Spring Boot, Python, FastAPI" />
+
+<br/><br/>
+
+<sub>FRONTEND</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS" />
+
+<br/><br/>
+
+<sub>DATABASES</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL, MongoDB" />
+
+<br/><br/>
+
+<sub>AI / ML</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="TensorFlow, OpenCV" />
+
+<br/><br/>
+
+<sub>TOOLS</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman&theme=dark" alt="Git, GitHub, Docker, Postman" />
 
 </div>
 
@@ -204,8 +230,8 @@ Java backend is the system I'm building depth in. MERN stack and AI/ML are syste
 ```
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shehzad-Nisar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=8B949E&ring_color=2DD4BF" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=Shehzad-Nisar&theme=dark&hide_border=true&background=0D1117&stroke=2DD4BF&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=8B949E&sideNums=E6EDF3&currStreakNum=E6EDF3&dates=8B949E" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shehzad-Nisar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=8B949E&ring_color=2DD4BF" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Shehzad-Nisar&theme=dark&hide_border=true&background=0D1117&stroke=2DD4BF&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=8B949E&sideNums=E6EDF3&currStreakNum=E6EDF3&dates=8B949E" />
 </p>
 
 <p align="center">
