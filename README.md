@@ -15,7 +15,6 @@
 <div align="center">
 
 <sub><b>FRONTEND</b></sub>
-
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS" />
 <br/>
