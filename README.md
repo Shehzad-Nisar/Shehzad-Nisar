@@ -10,7 +10,7 @@
 
 </div>
 
-## `SKILLS`
+## `TECH STACKS`
 
 <div align="center">
 
