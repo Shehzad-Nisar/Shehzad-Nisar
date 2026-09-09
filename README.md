@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td><b>BACKEND</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,spring,py,fastapi&theme=dark" alt="Java, Spring Boot, Python, FastAPI" /></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=dark" alt="Java, Spring Boot, Node.js, Express.js" /></td>
   </tr>
   <tr>
     <td><b>DATABASES</b></td>
