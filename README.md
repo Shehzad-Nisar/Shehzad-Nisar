@@ -14,33 +14,31 @@
 
 <div align="center">
 
-<sub>FRONTEND</sub>
+<sub><b>FRONTEND</b></sub>
 
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS" />
 
 <br/><br/>
-<sub>BACKEND</sub>
+<sub><b>BACKEND</b></sub>
 
 <br/>
 <img src="https://skillicons.dev/icons?i=java,spring,py,fastapi&theme=dark" alt="Java, Spring Boot, Python, FastAPI" />
 
 <br/><br/>
-<sub>DATABASES</sub>
+<sub><b>DATABASES</b></sub>
 
 <br/>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL, MongoDB" />
 
 <br/><br/>
-
-<sub>AI / ML</sub>
+<sub><b>AI / ML</b></sub>
 
 <br/>
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="TensorFlow, OpenCV" />
 
 <br/><br/>
-
-<sub>TOOLS</sub>
+<sub><b>TOOLS</b></sub>
 
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman&theme=dark" alt="Git, GitHub, Docker, Postman" />
