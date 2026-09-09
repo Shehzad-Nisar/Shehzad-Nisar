@@ -14,29 +14,28 @@
 
 <div align="center">
 
-<sub><b>FRONTEND</b></sub>
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS" />
-<br/>
-<sub><b>BACKEND</b></sub>
-
-<br/>
-<img src="https://skillicons.dev/icons?i=java,spring,py,fastapi&theme=dark" alt="Java, Spring Boot, Python, FastAPI" />
-<br/>
-<sub><b>DATABASES</b></sub>
-
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL, MongoDB" />
-<br/>
-<sub><b>AI / ML</b></sub>
-
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="TensorFlow, OpenCV" />
-<br/>
-<sub><b>TOOLS</b></sub>
-
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman&theme=dark" alt="Git, GitHub, Docker, Postman" />
+<table>
+  <tr>
+    <td><b>FRONTEND</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS" /></td>
+  </tr>
+  <tr>
+    <td><b>BACKEND</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,py,fastapi&theme=dark" alt="Java, Spring Boot, Python, FastAPI" /></td>
+  </tr>
+  <tr>
+    <td><b>DATABASES</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL, MongoDB" /></td>
+  </tr>
+  <tr>
+    <td><b>AI / ML</b></td>
+    <td><img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="TensorFlow, OpenCV" /></td>
+  </tr>
+  <tr>
+    <td><b>TOOLS</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,docker,postman&theme=dark" alt="Git, GitHub, Docker, Postman" /></td>
+  </tr>
+</table>
 
 </div>
 
