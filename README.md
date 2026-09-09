@@ -16,13 +16,13 @@
 
 <sub>BACKEND</sub>
 <br/>
-<img src="https://skillicons.dev/icons?i=java,spring,py,fastapi&theme=dark" alt="Java, Spring Boot, Python, FastAPI" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS" />
 
 <br/><br/>
 
 <sub>FRONTEND</sub>
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=java,spring,py,fastapi&theme=dark" alt="Java, Spring Boot, Python, FastAPI" />
 
 <br/><br/>
 
