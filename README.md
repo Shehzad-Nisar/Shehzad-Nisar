@@ -240,21 +240,6 @@ Java backend is the system I'm building depth in. MERN stack and AI/ML are syste
 <sub>Every number above is generated live by a GitHub-connected service — nothing on this page is hard-coded.</sub>
 <br/>
 
-## `LANGUAGE.MATRIX`
-
-╭─────────────────────────────────────────────────╮
-│ MOST USED LANGUAGES — PULLED DIRECTLY FROM GITHUB│
-╰─────────────────────────────────────────────────╯
-
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shehzad-Nisar&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=8B949E&langs_count=8" />
-</p>
-
-<sub>Percentage breakdown generated live from public repository data.</sub>
-
-<br/>
-
 ## `ENGINEERING.PRINCIPLES`
 
 ```
