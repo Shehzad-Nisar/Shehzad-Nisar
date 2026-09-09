@@ -17,8 +17,7 @@
 <sub><b>FRONTEND</b></sub>
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS" />
-
-<br/><br/>
+<br/>
 <sub><b>BACKEND</b></sub>
 <br/>
 <img src="https://skillicons.dev/icons?i=java,spring,py,fastapi&theme=dark" alt="Java, Spring Boot, Python, FastAPI" />
