@@ -356,7 +356,7 @@ Cloud Deployment (AWS / GCP)           ▰▰░░░░░░░░  EXPLORING
 01101001 01101110 01100101 01100101 01110010 00101110
 ```
 
-**[→ Decode Me]((https://www.rapidtables.com/convert/number/binary-to-ascii.html))**
+**[→ Decode Me](https://www.rapidtables.com/convert/number/binary-to-ascii.html)**
 
 </details>
 
