@@ -332,7 +332,7 @@ DISTRIBUTED SYSTEMS       EXPLORING
 ## `CONTACT`
 
 ```
-PROTOCOL      EMAIL / LINKEDIN / GITHUB
+PROTOCOL      EMAIL / LINKEDIN / GITHUB / WHATSAPP
 STATUS        OPEN TO BACKEND / SOFTWARE ENGINEERING / MERN ROLES
 RESPONSE      WITHIN 24–48H
 ```
@@ -341,15 +341,8 @@ RESPONSE      WITHIN 24–48H
 <a href="mailto:shehzadnisar07@gmail.com"><img src="https://img.shields.io/badge/-Email-0D1117?style=flat-square&logo=gmail&logoColor=2DD4BF" /></a>
 <a href="https://www.linkedin.com/in/shehzad-nisar-873467369"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=2DD4BF" /></a>
 <a href="https://github.com/Shehzad-Nisar"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&logoColor=2DD4BF" /></a>
+<a href="https://wa.me/923443380292"><img src="https://img.shields.io/badge/-WhatsApp-0D1117?style=flat-square&logo=whatsapp&logoColor=2DD4BF" /></a>
 </p>
-
-<br/>
-
-<div align="center">
-<a href="https://www.linkedin.com/in/shehzad-nisar-873467369" target="_blank">
-<img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</div>
 
 <br/>
 
