@@ -327,13 +327,13 @@ Cloud Deployment (AWS / GCP)           ▰▰░░░░░░░░  EXPLORING
 ```
 
 <p align="center">
-<a href="mailto:shehzadnisar07@gmail.com"><img src="https://img.shields.io/badge/Email-shehzadnisar07%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=2DD4BF" alt="Email" /></a>
+<a href="mailto:shehzadnisar07@gmail.com?subject=Hello%20Shehzad&body=Hi%20Shehzad,%20I%20would%20like%20to%20connect%20with%20you."><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=2DD4BF" alt="Email" /></a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shehzad-nisar-873467369"><img src="https://img.shields.io/badge/LinkedIn-Shehzad%20Nisar-0D1117?style=flat-square&logo=linkedin&logoColor=2DD4BF" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/shehzad-nisar-873467369" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=2DD4BF" alt="LinkedIn" /></a>
 &nbsp;&nbsp;
-<a href="https://github.com/Shehzad-Nisar"><img src="https://img.shields.io/badge/GitHub-Shehzad--Nisar-0D1117?style=flat-square&logo=github&logoColor=2DD4BF" alt="GitHub" /></a>
+<a href="https://github.com/Shehzad-Nisar" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=2DD4BF" alt="GitHub" /></a>
 &nbsp;&nbsp;
-<a href="https://wa.me/923443380292"><img src="https://img.shields.io/badge/WhatsApp-03443380292-0D1117?style=flat-square&logo=whatsapp&logoColor=2DD4BF" alt="WhatsApp" /></a>
+<a href="https://wa.me/923443380292" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-0D1117?style=flat-square&logo=whatsapp&logoColor=2DD4BF" alt="WhatsApp" /></a>
 </p>
 
 <br/>
@@ -356,7 +356,7 @@ Cloud Deployment (AWS / GCP)           ▰▰░░░░░░░░  EXPLORING
 01101001 01101110 01100101 01100101 01110010 00101110
 ```
 
-**[→ Decode Me](https://github.com/Shehzad-Nisar/secret-terminal)**
+**[→ Decode Me]([https://github.com/Shehzad-Nisar/secret-terminal](https://www.rapidtables.com/convert/number/binary-to-ascii.html))**
 
 </details>
 
