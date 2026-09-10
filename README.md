@@ -90,6 +90,32 @@ MERN / Full-Stack Development
 
 <br/>
 
+## `MOST.USED.LANGUAGES`
+
+```
+╭─────────────────────────────────────────────────────────────╮
+│  LANGUAGE DISTRIBUTION — CODE BREAKDOWN BY RUNTIME           │
+├─────────────────────────────────────────────────────────────┤
+│                                                               │
+│  JAVA             ████████████████████░░░  35%              │
+│  TypeScript       ██████████████████░░░░░  30%              │
+│  Python           ████████████░░░░░░░░░░░  20%              │
+│  JavaScript       ██████░░░░░░░░░░░░░░░░░  10%              │
+│  SQL              ███░░░░░░░░░░░░░░░░░░░░   5%              │
+│                                                               │
+╰─────────────────────────────────────────────────────────────╯
+```
+
+| Language       | Percentage | Primary Use Case |
+|---|---|---|
+| **Java**       | 35% | Backend systems, Spring Boot, REST APIs |
+| **TypeScript** | 30% | Frontend, React, Next.js, type-safe code |
+| **Python**     | 20% | AI/ML, FastAPI, data processing |
+| **JavaScript** | 10% | Node.js, Express, scripting |
+| **SQL**        | 5% | Database queries, MySQL, MongoDB |
+
+<br/>
+
 ## `PROJECTS`
 
 <br/>
@@ -316,6 +342,14 @@ RESPONSE      WITHIN 24–48H
 <a href="https://www.linkedin.com/in/shehzad-nisar-873467369"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=2DD4BF" /></a>
 <a href="https://github.com/Shehzad-Nisar"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&logoColor=2DD4BF" /></a>
 </p>
+
+<br/>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/shehzad-nisar-873467369" target="_blank">
+<img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</div>
 
 <br/>
 
