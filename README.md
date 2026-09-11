@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Shehzad-Nisar/Shehzad-Nisar/main/assets/banner.svg" width="100%" alt="Shehzad Nisar â€” Software Engineer" />
+<img src="https://raw.githubusercontent.com/Shehzad-Nisar/Shehzad-Nisar/main/assets/banner.svg" width="100%" alt="Shehzad Nisar — Software Engineer" />
 
 <br/>
 
@@ -16,30 +16,26 @@
 
 <div align="center">
 
-<table width="100%">
-  <colgroup>
-    <col width="18%">
-    <col width="82%">
-  </colgroup>
+<table>
   <tr>
-    <td align="left" valign="middle"><b>FRONTEND</b></td>
-    <td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS" /></td>
+    <td><b>FRONTEND</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS" /></td>
   </tr>
   <tr>
-    <td align="left" valign="middle"><b>BACKEND</b></td>
-    <td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=dark" alt="Java, Spring Boot, Node.js, Express.js" /></td>
+    <td><b>BACKEND</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=dark" alt="Java, Spring Boot, Node.js, Express.js" /></td>
   </tr>
   <tr>
-    <td align="left" valign="middle"><b>DATABASES</b></td>
-    <td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL, MongoDB" /></td>
+    <td><b>DATABASES</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL, MongoDB" /></td>
   </tr>
   <tr>
-    <td align="left" valign="middle"><b>AI / ML</b></td>
-    <td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="TensorFlow, OpenCV" /></td>
+    <td><b>AI / ML</b></td>
+    <td><img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="TensorFlow, OpenCV" /></td>
   </tr>
   <tr>
-    <td align="left" valign="middle"><b>TOOLS</b></td>
-    <td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=git,github,docker,postman&theme=dark" alt="Git, GitHub, Docker, Postman" /></td>
+    <td><b>TOOLS</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,docker,postman&theme=dark" alt="Git, GitHub, Docker, Postman" /></td>
   </tr>
 </table>
 
@@ -52,19 +48,19 @@
 ## `< SYSTEM.STATUS />`
 
 ```
-â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—
-â•‘                      BOOT SEQUENCE                            â•‘
-â• â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•£
-â•‘  > booting profile.exe                                        â•‘
-â•‘  > loading identity ............................ âœ“ OK         â•‘
-â•‘  > loading focus ............................. JAVA / SPRING  â•‘
-â•‘  > loading domain ............... BACKEND SYSTEMS & REST APIs â•‘
-â•‘  > loading secondary ......... MERN STACK Â· AI/ML Â· INFERENCE â•‘
-â•‘  > status ............................... âœ“ ACCESS GRANTED    â•‘
-â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+╔══════════════════════════════════════════════════════════════╗
+║                      BOOT SEQUENCE                            ║
+╠══════════════════════════════════════════════════════════════╣
+║  > booting profile.exe                                        ║
+║  > loading identity ............................ ✓ OK         ║
+║  > loading focus ............................. JAVA / SPRING  ║
+║  > loading domain ............... BACKEND SYSTEMS & REST APIs ║
+║  > loading secondary ......... MERN STACK · AI/ML · INFERENCE ║
+║  > status ............................... ✓ ACCESS GRANTED    ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-Final-year Computer Science graduate transitioning into professional software engineering, with a primary focus on **backend development using Java and Spring Boot**. I build REST APIs, apply layered application architecture, and think about software from the database and domain layer upâ€”not just the API endpoint down.
+Final-year Computer Science graduate transitioning into professional software engineering, with a primary focus on **backend development using Java and Spring Boot**. I build REST APIs, apply layered application architecture, and think about software from the database and domain layer up—not just the API endpoint down.
 
 Alongside backend engineering, I build full-stack applications using the **MERN ecosystem** (MongoDB, Express, React, Next.js, TypeScript). I also have hands-on experience developing **AI/ML systems** with TensorFlow Lite, MediaPipe, and FastAPI.
 
@@ -77,20 +73,20 @@ Alongside backend engineering, I build full-stack applications using the **MERN 
 ## `< CURRENT.MISSION />`
 
 ```
-â•­â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â•®
-â”‚                   ACTIVE DEVELOPMENT                         â”‚
-â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
-â”‚  STATUS            â— BUILDING                                â”‚
-â”‚  PRIMARY           Java Â· Spring Boot                        â”‚
-â”‚  DOMAIN            Backend Systems & REST APIs               â”‚
-â”‚  ARCHITECTURE      Layered (Controller â†’ Service â†’ Repo)    â”‚
-â”‚  DATABASE          MySQL Â· MongoDB                           â”‚
-â”‚  SECONDARY         MERN Stack Â· AI/ML Â· TensorFlow Lite      â”‚
-â”‚  NEXT MILESTONE    JPA Â· Spring Security Â· Docker            â”‚
-â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
-â”‚  OPEN TO           Java Backend Â· Software Engineering       â”‚
-â”‚                    MERN / Full-Stack Development             â”‚
-â•°â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â•¯
+╭─────────────────────────────────────────────────────────────╮
+│                   ACTIVE DEVELOPMENT                         │
+├─────────────────────────────────────────────────────────────┤
+│  STATUS            ● BUILDING                                │
+│  PRIMARY           Java · Spring Boot                        │
+│  DOMAIN            Backend Systems & REST APIs               │
+│  ARCHITECTURE      Layered (Controller → Service → Repo)    │
+│  DATABASE          MySQL · MongoDB                           │
+│  SECONDARY         MERN Stack · AI/ML · TensorFlow Lite      │
+│  NEXT MILESTONE    JPA · Spring Security · Docker            │
+├─────────────────────────────────────────────────────────────┤
+│  OPEN TO           Java Backend · Software Engineering       │
+│                    MERN / Full-Stack Development             │
+╰─────────────────────────────────────────────────────────────╯
 ```
 
 <br/>
@@ -100,56 +96,26 @@ Alongside backend engineering, I build full-stack applications using the **MERN 
 ## `< LANGUAGE.DISTRIBUTION />`
 
 ```
-â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—
-â•‘           CODE USAGE BY LANGUAGE â€” RUNTIME BREAKDOWN          â•‘
-â• â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•£
-â•‘                                                                â•‘
-â•‘  JAVA             â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘  35%        â•‘
-â•‘  TypeScript       â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘  30%        â•‘
-â•‘  Python           â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘  20%        â•‘
-â•‘  JavaScript       â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘  10%        â•‘
-â•‘  SQL              â–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘   5%        â•‘
-â•‘                                                                â•‘
-â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+╔═══════════════════════════════════════════════════════════════╗
+║           CODE USAGE BY LANGUAGE — RUNTIME BREAKDOWN          ║
+╠═══════════════════════════════════════════════════════════════╣
+║                                                                ║
+║  JAVA             ████████████████████░░░░░░░░░░░  35%        ║
+║  TypeScript       ██████████████████░░░░░░░░░░░░░  30%        ║
+║  Python           ████████████░░░░░░░░░░░░░░░░░░░  20%        ║
+║  JavaScript       ██████░░░░░░░░░░░░░░░░░░░░░░░░░  10%        ║
+║  SQL              ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5%        ║
+║                                                                ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
-<table width="100%">
-  <colgroup>
-    <col width="16%">
-    <col width="44%">
-    <col width="40%">
-  </colgroup>
-  <tr>
-    <th align="left">Language</th>
-    <th align="center">Distribution</th>
-    <th align="left">Primary Focus</th>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></td>
-    <td align="center"><img src="https://progress-bar.dev/35/?width=180&color=ED8B00&suffix=%25" alt="35%" /></td>
-    <td>Spring Boot, REST APIs, Microservices</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></td>
-    <td align="center"><img src="https://progress-bar.dev/30/?width=180&color=3178C6&suffix=%25" alt="30%" /></td>
-    <td>React, Next.js, Frontend Systems</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></td>
-    <td align="center"><img src="https://progress-bar.dev/20/?width=180&color=3776AB&suffix=%25" alt="20%" /></td>
-    <td>FastAPI, TensorFlow, AI/ML Pipelines</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></td>
-    <td align="center"><img src="https://progress-bar.dev/10/?width=180&color=F7DF1E&suffix=%25" alt="10%" /></td>
-    <td>Node.js, Express, Server-side Logic</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" /></td>
-    <td align="center"><img src="https://progress-bar.dev/5/?width=180&color=4479A1&suffix=%25" alt="5%" /></td>
-    <td>MySQL, MongoDB Queries, Database Design</td>
-  </tr>
-</table>
+| Language | Distribution | Primary Focus |
+|:---:|:---:|:---|
+| **JAVA** | ████████████████████░░░ 35% | Spring Boot, REST APIs, Microservices |
+| **TypeScript** | ██████████████████░░░░░ 30% | React, Next.js, Frontend Systems |
+| **Python** | ████████████░░░░░░░░░░░ 20% | FastAPI, TensorFlow, AI/ML Pipelines |
+| **JavaScript** | ██████░░░░░░░░░░░░░░░░░ 10% | Node.js, Express, Server-side Logic |
+| **SQL** | ███░░░░░░░░░░░░░░░░░░░░ 5% | MySQL, MongoDB Queries, Database Design |
 
 <br/>
 
@@ -159,24 +125,24 @@ Alongside backend engineering, I build full-stack applications using the **MERN 
 
 <br/>
 
-### `PROJECT_01` â€” Distributed Digital Wallet
+### `PROJECT_01` — Distributed Digital Wallet
 
-**Enterprise-grade banking backend** â€” not a CRUD tutorial. Models real financial operations (account creation, balance state, transaction processing) through a properly layered Spring Boot architecture with validation enforced at every boundary.
+**Enterprise-grade banking backend** — not a CRUD tutorial. Models real financial operations (account creation, balance state, transaction processing) through a properly layered Spring Boot architecture with validation enforced at every boundary.
 
 ```
-â”Œâ”€ CLIENT REQUEST
-â”‚
-â”œâ”€> CONTROLLER    [Request Validation & Routing]
-â”‚
-â”œâ”€> SERVICE       [Business Logic & Transaction Rules]
-â”‚
-â”œâ”€> REPOSITORY    [Data Access Abstraction]
-â”‚
-â””â”€> DATABASE      [Persistent State Management]
+┌─ CLIENT REQUEST
+│
+├─> CONTROLLER    [Request Validation & Routing]
+│
+├─> SERVICE       [Business Logic & Transaction Rules]
+│
+├─> REPOSITORY    [Data Access Abstraction]
+│
+└─> DATABASE      [Persistent State Management]
 ```
 
 <details>
-<summary><b>ðŸ”§ Engineering Details</b></summary>
+<summary><b>🔧 Engineering Details</b></summary>
 <br/>
 
 - **Interface-driven contracts** with dependency injection
@@ -193,30 +159,30 @@ Alongside backend engineering, I build full-stack applications using the **MERN 
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=2DD4BF)
 ![Layered Architecture](https://img.shields.io/badge/Layered%20Architecture-0D1117?style=flat-square&logoColor=2DD4BF)
 
-**[â†’ View Repository](https://github.com/Shehzad-Nisar/Distributed-Digital-Wallet)**
+**[→ View Repository](https://github.com/Shehzad-Nisar/Distributed-Digital-Wallet)**
 
 <br/>
 
-### `PROJECT_02` â€” Sign Analyzer
+### `PROJECT_02` — Sign Analyzer
 
-**Real-time Pakistan Sign Language recognition** â€” a complete pipeline from camera input to spoken output. Recognizes Pakistan Sign Language gestures (including Urdu alphabet and dynamic word-level signs) with real-time speech synthesis in English or Urdu.
+**Real-time Pakistan Sign Language recognition** — a complete pipeline from camera input to spoken output. Recognizes Pakistan Sign Language gestures (including Urdu alphabet and dynamic word-level signs) with real-time speech synthesis in English or Urdu.
 
 ```
 MOBILE FRONTEND (Expo)
-    â†“ camera stream
+    ↓ camera stream
 MEDIAPIPE LANDMARKS
-    â†“ coordinates
+    ↓ coordinates
 WEBSOCKET (real-time)
-    â†“ async channel
+    ↓ async channel
 FASTAPI (Python backend)
-    â†“ inference pipeline
+    ↓ inference pipeline
 TENSORFLOW LITE
-    â†“ gesture prediction
+    ↓ gesture prediction
 SYNTHESIS (English/Urdu speech)
 ```
 
 <details>
-<summary><b>ðŸ”§ Engineering Details</b></summary>
+<summary><b>🔧 Engineering Details</b></summary>
 <br/>
 
 - **On-device landmark extraction** via MediaPipe (minimal latency)
@@ -233,16 +199,16 @@ SYNTHESIS (English/Urdu speech)
 ![React Native](https://img.shields.io/badge/Expo%20React%20Native-0D1117?style=flat-square&logo=expo&logoColor=2DD4BF)
 ![WebSocket](https://img.shields.io/badge/WebSocket-0D1117?style=flat-square&logoColor=2DD4BF)
 
-**[â†’ View Repository](https://github.com/Shehzad-Nisar/sign-analyzer)**
+**[→ View Repository](https://github.com/Shehzad-Nisar/sign-analyzer)**
 
 <br/>
 
-### `PROJECT_03` â€” Basho Valley Foundation
+### `PROJECT_03` — Basho Valley Foundation
 
-**Educational web platform** for real-world foundation client â€” not a demo. Built with performance and content clarity as first-class concerns for a non-technical audience.
+**Educational web platform** for real-world foundation client — not a demo. Built with performance and content clarity as first-class concerns for a non-technical audience.
 
 ```
-TYPESCRIPT  â”€â”€>  REACT  â”€â”€>  NEXT.JS  â”€â”€>  TAILWIND CSS  â”€â”€>  PRODUCTION
+TYPESCRIPT  ──>  REACT  ──>  NEXT.JS  ──>  TAILWIND CSS  ──>  PRODUCTION
 ```
 
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=2DD4BF)
@@ -250,7 +216,7 @@ TYPESCRIPT  â”€â”€>  REACT  â”€â”€>  NEXT.JS  â”€â”�
 ![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=2DD4BF)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=2DD4BF)
 
-**[â†’ View Repository](https://github.com/Shehzad-Nisar/Basho-Valley-Foundation)**
+**[→ View Repository](https://github.com/Shehzad-Nisar/Basho-Valley-Foundation)**
 
 <br/>
 
@@ -260,22 +226,22 @@ TYPESCRIPT  â”€â”€>  REACT  â”€â”€>  NEXT.JS  â”€â”�
 
 ```
 BACKEND SYSTEMS              FRONTEND / FULL-STACK         AI / ML SYSTEMS
-â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€          â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€         â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+──────────────────          ──────────────────────         ───────────────
 
 Java                         TypeScript                    MediaPipe
-  â†“                            â†“                              â†“
+  ↓                            ↓                              ↓
 Spring Boot                  React                         FastAPI
-  â†“                            â†“                              â†“
+  ↓                            ↓                              ↓
 REST APIs                    Next.js                       TensorFlow Lite
-  â†“                            â†“                              â†“
+  ↓                            ↓                              ↓
 Service Layer               Tailwind CSS                  Real-time Inference
-  â†“                            â†“
+  ↓                            ↓
 Repository                  MongoDB
-  â†“
+  ↓
 Database
 ```
 
-**Focus progression:** Java/Spring Boot (primary depth) â†’ MERN Stack (secondary shipped work) â†’ AI/ML (emerging expertise)
+**Focus progression:** Java/Spring Boot (primary depth) → MERN Stack (secondary shipped work) → AI/ML (emerging expertise)
 
 <br/>
 
@@ -284,9 +250,9 @@ Database
 ## `< CONTRIBUTION.METRICS />`
 
 ```
-â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—
-â•‘        LIVE STATISTICS â€” PULLED DIRECTLY FROM GITHUB        â•‘
-â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+╔════════════════════════════════════════════════════════════╗
+║        LIVE STATISTICS — PULLED DIRECTLY FROM GITHUB        ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
 <p align="center">
@@ -298,7 +264,7 @@ Database
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shehzad-Nisar&theme=react-dark&bg_color=0D1117&color=2DD4BF&line=2DD4BF&point=E6EDF3&area=true&area_color=2DD4BF&hide_border=true" alt="Activity Graph" />
 </p>
 
-<sub align="center">ðŸ“Š Every metric is live-generated â€” nothing is hard-coded</sub>
+<sub align="center">📊 Every metric is live-generated — nothing is hard-coded</sub>
 
 <br/>
 
@@ -307,17 +273,17 @@ Database
 ## `< ENGINEERING.PHILOSOPHY />`
 
 ```
-â•­â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â•®
-â”‚             CORE DEVELOPMENT PRINCIPLES                â”‚
-â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
-â”‚  01  Understand the problem before writing code        â”‚
-â”‚  02  Prefer simple, explicit architecture              â”‚
-â”‚  03  Validate at every system boundary                 â”‚
-â”‚  04  Design for change; avoid tight coupling           â”‚
-â”‚  05  Build systems, not isolated features              â”‚
-â”‚  06  Readable code is a deliverable                    â”‚
-â”‚  07  Test what matters; simplify what doesn't          â”‚
-â•°â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â•¯
+╭────────────────────────────────────────────────────────╮
+│             CORE DEVELOPMENT PRINCIPLES                │
+├────────────────────────────────────────────────────────┤
+│  01  Understand the problem before writing code        │
+│  02  Prefer simple, explicit architecture              │
+│  03  Validate at every system boundary                 │
+│  04  Design for change; avoid tight coupling           │
+│  05  Build systems, not isolated features              │
+│  06  Readable code is a deliverable                    │
+│  07  Test what matters; simplify what doesn't          │
+╰────────────────────────────────────────────────────────╯
 ```
 
 <br/>
@@ -328,21 +294,21 @@ Database
 
 ```
 SKILL PROGRESSION                        STATUS
-â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+─────────────────────────────────────────────────
 
-Java Fundamentals                      â–°â–°â–°â–°â–°â–°â–°â–°â–°â–‘  MASTERING
-Spring Boot & Spring Framework         â–°â–°â–°â–°â–°â–°â–°â–°â–‘â–‘  BUILDING
-REST API Design & Implementation       â–°â–°â–°â–°â–°â–°â–°â–°â–‘â–‘  BUILDING
-MERN Stack (React / Next.js)           â–°â–°â–°â–°â–°â–°â–°â–‘â–‘â–‘  BUILDING
-Database Design (SQL / NoSQL)          â–°â–°â–°â–°â–°â–°â–°â–‘â–‘â–‘  BUILDING
-Spring Security & Authentication       â–°â–°â–°â–°â–°â–‘â–‘â–‘â–‘â–‘  LEARNING
-Docker & Containerization              â–°â–°â–°â–°â–‘â–‘â–‘â–‘â–‘â–‘  LEARNING
-System Design & Architecture           â–°â–°â–°â–‘â–‘â–‘â–‘â–‘â–‘â–‘  EXPLORING
-Distributed Systems & Scalability      â–°â–°â–°â–‘â–‘â–‘â–‘â–‘â–‘â–‘  EXPLORING
-Cloud Deployment (AWS / GCP)           â–°â–°â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘  EXPLORING
+Java Fundamentals                      ▰▰▰▰▰▰▰▰▰░  MASTERING
+Spring Boot & Spring Framework         ▰▰▰▰▰▰▰▰░░  BUILDING
+REST API Design & Implementation       ▰▰▰▰▰▰▰▰░░  BUILDING
+MERN Stack (React / Next.js)           ▰▰▰▰▰▰▰░░░  BUILDING
+Database Design (SQL / NoSQL)          ▰▰▰▰▰▰▰░░░  BUILDING
+Spring Security & Authentication       ▰▰▰▰▰░░░░░  LEARNING
+Docker & Containerization              ▰▰▰▰░░░░░░  LEARNING
+System Design & Architecture           ▰▰▰░░░░░░░  EXPLORING
+Distributed Systems & Scalability      ▰▰▰░░░░░░░  EXPLORING
+Cloud Deployment (AWS / GCP)           ▰▰░░░░░░░░  EXPLORING
 ```
 
-<sub>Self-assessed â€” status reflects actual capability, not claimed mastery</sub>
+<sub>Self-assessed — status reflects actual capability, not claimed mastery</sub>
 
 <br/>
 
@@ -351,13 +317,13 @@ Cloud Deployment (AWS / GCP)           â–°â–°â–‘â–‘â–‘â�
 ## `< CONTACT.CHANNELS />`
 
 ```
-â•­â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â•®
-â”‚                   OPEN TO CONNECTIONS                  â”‚
-â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
-â”‚  PROTOCOL      EMAIL Â· LINKEDIN Â· GITHUB Â· WHATSAPP    â”‚
-â”‚  STATUS        AVAILABLE FOR BACKEND / SE ROLES        â”‚
-â”‚  RESPONSE      WITHIN 24â€”48 HOURS                      â”‚
-â•°â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â•¯
+╭────────────────────────────────────────────────────────╮
+│                   OPEN TO CONNECTIONS                  │
+├────────────────────────────────────────────────────────┤
+│  PROTOCOL      EMAIL · LINKEDIN · GITHUB · WHATSAPP    │
+│  STATUS        AVAILABLE FOR BACKEND / SE ROLES        │
+│  RESPONSE      WITHIN 24—48 HOURS                      │
+╰────────────────────────────────────────────────────────╯
 ```
 
 <p align="center">
@@ -390,7 +356,7 @@ Cloud Deployment (AWS / GCP)           â–°â–°â–‘â–‘â–‘â�
 01101001 01101110 01100101 01100101 01110010 00101110
 ```
 
-**[â†’ Decode Me](https://www.rapidtables.com/convert/number/binary-to-ascii.html)**
+**[→ Decode Me](https://www.rapidtables.com/convert/number/binary-to-ascii.html)**
 
 </details>
 
