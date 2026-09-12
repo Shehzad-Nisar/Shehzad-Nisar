@@ -296,16 +296,16 @@ Database
 SKILL PROGRESSION                        STATUS
 ─────────────────────────────────────────────────
 
-Java Fundamentals                      ▰▰▰▰▰▰▰▰▰░  MASTERING
-Spring Boot & Spring Framework         ▰▰▰▰▰▰▰▰░░  BUILDING
-REST API Design & Implementation       ▰▰▰▰▰▰▰▰░░  BUILDING
-MERN Stack (React / Next.js)           ▰▰▰▰▰▰▰░░░  BUILDING
-Database Design (SQL / NoSQL)          ▰▰▰▰▰▰▰░░░  BUILDING
-Spring Security & Authentication       ▰▰▰▰▰░░░░░  LEARNING
-Docker & Containerization              ▰▰▰▰░░░░░░  LEARNING
-System Design & Architecture           ▰▰▰░░░░░░░  EXPLORING
-Distributed Systems & Scalability      ▰▰▰░░░░░░░  EXPLORING
-Cloud Deployment (AWS / GCP)           ▰▰░░░░░░░░  EXPLORING
+Java Fundamentals                      ▰▰▰▰▰▰▰▰▰░  
+Spring Boot & Spring Framework         ▰▰▰▰▰▰▰▰░░  
+REST API Design & Implementation       ▰▰▰▰▰▰▰▰░░ 
+MERN Stack (React / Next.js)           ▰▰▰▰▰▰▰░░░ 
+Database Design (SQL / NoSQL)          ▰▰▰▰▰▰▰░░░  
+Spring Security & Authentication       ▰▰▰▰▰░░░░░  
+Docker & Containerization              ▰▰▰▰░░░░░░  
+System Design & Architecture           ▰▰▰░░░░░░░  
+Distributed Systems & Scalability      ▰▰▰░░░░░░░  
+Cloud Deployment (AWS / GCP)           ▰▰░░░░░░░░  
 ```
 
 <sub>Self-assessed — status reflects actual capability, not claimed mastery</sub>
