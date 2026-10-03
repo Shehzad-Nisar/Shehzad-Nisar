@@ -29,7 +29,7 @@
     <td><img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL, MongoDB" /></td>
   </tr>
   <tr>
-    <td><b>AI / ML</b></td>
+    <td><b>AI / ML </b></td>
     <td><img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="TensorFlow, OpenCV" /></td>
   </tr>
   <tr>
