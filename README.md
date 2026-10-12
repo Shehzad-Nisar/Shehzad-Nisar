@@ -1,4 +1,5 @@
 <div align="center">
+  
 <img src="https://raw.githubusercontent.com/Shehzad-Nisar/Shehzad-Nisar/main/assets/banner.svg" width="100%" alt="Shehzad Nisar — Software Engineer" />
   
 <br/>
